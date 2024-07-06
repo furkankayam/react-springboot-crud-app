@@ -31,7 +31,7 @@
 Used Technologies in The Project:
 
 [![React](https://img.shields.io/badge/React-18.3-000?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)](https://react.dev/)
-[![Redux Toolkit](https://img.shields.io/badge/React%20Toolkit-2.2-000?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)](https://redux-toolkit.js.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-2.2-000?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)](https://redux-toolkit.js.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-000?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)](https://tailwindcss.com/)
 [![Axios](https://img.shields.io/badge/Axios-1.7-000?style=for-the-badge&logo=axios&logoColor=white&color=5A29E4)](https://axios-http.com/docs/intro)
 [![Java](https://img.shields.io/badge/java-17.0-000?style=for-the-badge&logo=openjdk&logoColor=white&color=FF9A00)](https://www.java.com/en/)
