@@ -63,6 +63,7 @@ public class UserService {
         user.setUsername(userRequest.username());
         userRepository.save(user);
         return userRequest;
+
     }
 
     //SEARCH

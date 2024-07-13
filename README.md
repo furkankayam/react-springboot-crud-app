@@ -15,6 +15,8 @@
 <img src="./images/swagger.png" alt="swagger">
 <h3>⚡Database</h3>
 <img src="./images/database-table.png" alt="database">
+<h3>⚡Test</h3>
+<img src="./images/test.png" alt="test">
 <h3>⚡Docker Compose</h3>
 <img src="./images/docker.png" alt="docker">
 </div>

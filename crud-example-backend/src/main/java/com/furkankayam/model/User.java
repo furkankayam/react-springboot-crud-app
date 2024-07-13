@@ -52,7 +52,22 @@ public class User {
     public User() {
     }
 
-    public User(Long id, String firstName, String lastName, String username, String email) {
+    public User(String firstName,
+                String lastName,
+                String username,
+                String email) {
+        this.id = new User().id;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.username = username;
+        this.email = email;
+    }
+
+    public User(Long id,
+                String firstName,
+                String lastName,
+                String username,
+                String email) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -61,7 +76,6 @@ public class User {
     }
 
     //Getter-Setter
-
     public Long getId() {
         return id;
     }

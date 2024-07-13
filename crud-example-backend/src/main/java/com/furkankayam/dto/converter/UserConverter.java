@@ -29,7 +29,6 @@ public class UserConverter {
     }
 
     public List<UserRequestResponseDto> toUserRequestResponseDtoList (List<User> users) {
-        List<UserRequestResponseDto> userRequestResponseDtos = new ArrayList<>();
         return users.stream()
                 .map(this::toUserRequestResponseDto)
                 .toList();
